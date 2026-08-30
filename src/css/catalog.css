@@ -1,1 +1,54 @@
 /* Сюди додавай стилі частинки Catalog */
+.catalog {
+  font-family: 'Inter', sans-serif;
+  font-weight: 500;
+}
+.catalog-title {
+  font-size: 48px;
+  line-height: 1;
+  letter-spacing: -0.02em;
+  text-align: center;
+  color: #fbfbfb;
+}
+.catalog-card {
+  background-color: #fbfbfb;
+}
+.catalog-card-title {
+  font-size: 16px;
+  line-height: 1.2;
+  letter-spacing: -0.04em;
+  text-transform: uppercase;
+  color: #1b414b;
+}
+.catalog-card-desc {
+  font-weight: 400;
+  font-size: 13px;
+  line-height: 1.18;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: #989899;
+}
+.catalog-card-list-item {
+  font-weight: 400;
+  background-color: #fbfbfb;
+}
+.catalog-card-list-item-label {
+  font-size: 14px;
+  line-height: 1.18;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: #989899;
+}
+.catalog-card-list-item-value {
+  font-size: 14px;
+  line-height: 1.18;
+  letter-spacing: 0.03em;
+  color: #040306;
+}
+.catalog-btn {
+  font-size: 18px;
+  line-height: 1.1;
+  letter-spacing: -0.02em;
+  color: #fbfbfb;
+  background-color: #0e1823;
+}
