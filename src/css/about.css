@@ -1,1 +1,35 @@
 /* Сюди додавай стилі частинки About */
+.about {
+  width: 1180px;
+}
+.about-list {
+  background-color: #1b414b;
+}
+.about-item {
+}
+.about-number {
+  font-weight: 500;
+  font-size: 32px;
+  line-height: 1;
+  letter-spacing: -0.05em;
+}
+.about-text {
+  font-size: 13px;
+  line-height: 1.15;
+  letter-spacing: -0.02em;
+  color: #b4b7ba;
+}
+.about-image {
+}
+.hidden {
+  h2 {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    padding: 0;
+    margin: -1px;
+    overflow: hidden;
+    clip: rect(0, 0, 0, 0);
+    border: 0;
+  }
+}
